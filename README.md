@@ -1,6 +1,6 @@
 # Twine upload
 ## Usage
-**Don't forget!** Set up `token` [secret](https://developer.github.com/actions/managing-workflows/storing-secrets/) for the [pip account](https://pypi.org/account/login/). See [how to set pip token](https://pypi.org/help/#apitoken)
+**Don't forget!** Set up `token` [secret](https://developer.github.com/actions/managing-workflows/storing-secrets/) for the Askdata Dataset Secret
 ```
 name: Upload python to twine
 
