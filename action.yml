@@ -1,0 +1,9 @@
+name: 'askdata-sync-dataset'
+description: 'Sync an Askdata Dataset'
+author: 'AskdataHQ'
+branding:
+  icon: 'upload'
+  color: 'orange'
+runs:
+  using: 'ubuntu-latest'
+  main: 'lib/main.js'
