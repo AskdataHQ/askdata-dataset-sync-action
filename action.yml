@@ -1,4 +1,4 @@
-name: 'askdata-sync-dataset'
+name: 'askdata-dataset-sync-action'
 description: 'Sync an Askdata Dataset'
 author: 'AskdataHQ'
 branding:
